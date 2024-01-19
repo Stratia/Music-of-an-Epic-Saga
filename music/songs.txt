@@ -1,0 +1,96 @@
+song={name="maintheme"
+ chance={modifier={factor=1}}}
+song={name="Aramid From The Audiomachine Release The Fire And The Fury"
+ chance={modifier={factor=1}}}
+song={name="Astabalanium"
+ chance={modifier={factor=1}}}
+song={name="Audiomachine - Guardians At The Gate"
+ chance={modifier={factor=1}}}
+song={name="Audiomachine - Soeran Infertus"
+ chance={modifier={factor=1}}}
+song={name="Audiomachine - Sword Of Omens [grv Extended Rmx]"
+ chance={modifier={factor=1}}}
+song={name="Chinese Battle Music - The Five Guardians"
+ chance={modifier={factor=1}}}
+song={name="Chinese Music - Ancient China"
+ chance={modifier={factor=1}}}
+song={name="Conspiracy Theory Music - Demise Of A Nation"
+ chance={modifier={factor=1}}}
+song={name="Dawn Of An Empire (anbennar - Main Theme)"
+ chance={modifier={factor=1}}}
+song={name="Devilsmonsters - Halo Combat Evolved Ost (original Anniversary And Spv3) Comparison Mix"
+ chance={modifier={factor=1}}}
+song={name="Epic Arabian Music Golden Age"
+ chance={modifier={factor=1}}}
+song={name="Epic Build Up Music - The Storm"
+ chance={modifier={factor=1}}}
+song={name="Epic Chinese Music – Kung Fu"
+ chance={modifier={factor=1}}}
+song={name="Epic Pirate Music - Buccaneer Island (brand X Music)"
+ chance={modifier={factor=1}}}
+song={name="Hadrians Wall"
+ chance={modifier={factor=1}}}
+song={name="Halo Battle Theme"
+ chance={modifier={factor=1}}}
+song={name="Hidan No Aria Op - Scarlet Ballet (full)"
+ chance={modifier={factor=1}}}
+song={name="Imperator"
+ chance={modifier={factor=1}}}
+song={name="Kais Theme Epic Version"
+ chance={modifier={factor=1}}}
+song={name="Lord Of Ashes"
+ chance={modifier={factor=1}}}
+song={name="March Of The Templars"
+ chance={modifier={factor=1}}}
+song={name="Most Epic Battle Music Invincible Spirit — Mark Petrie"
+ chance={modifier={factor=1}}}
+song={name="Mozart - Lacrimosa"
+ chance={modifier={factor=1}}}
+song={name="Mrkitty - After Dark (lyrics)"
+ chance={modifier={factor=1}}}
+song={name="National Anthem Of Roman Empire (instrumental)"
+ chance={modifier={factor=1}}}
+song={name="National Anthem Of The Roman Empire - Epic Orchestra Version"
+ chance={modifier={factor=1}}}
+song={name="New Horizons Remastered (celtic Pirate Music)"
+ chance={modifier={factor=1}}}
+song={name="Night Queen"
+ chance={modifier={factor=1}}}
+song={name="Overlord Ost Cd1 03 Era That Had Been Shining"
+ chance={modifier={factor=1}}}
+song={name="Overlord Ost Cd1 04 Lets Go Testament To Our Guild"
+ chance={modifier={factor=1}}}
+song={name="Overlord Ost Cd1 06 What The Fuck Is Going On"
+ chance={modifier={factor=1}}}
+song={name="Overlord Ost Cd1 11 Vessel Of The Ruler"
+ chance={modifier={factor=1}}}
+song={name="Overlord Ost Cd1 25 I Am Ainz Ooal Gown"
+ chance={modifier={factor=1}}}
+song={name="Overlord Ost Cd2 01 Arrival Of The Undead King"
+ chance={modifier={factor=1}}}
+song={name="Phoenix Rising - Audiomachine"
+ chance={modifier={factor=1}}}
+song={name="Prince Of Persia Sands Of Time Ost - 04 Prelude Fight"
+ chance={modifier={factor=1}}}
+song={name="Prince Of Persia Sands Of Time Ost - 09 Discover The Royal Chambers"
+ chance={modifier={factor=1}}}
+song={name="Prince Of Persia Sands Of Time Ost - 13 Attack Of The Sand Griffins"
+ chance={modifier={factor=1}}}
+song={name="Strength Of A Thousand Men - Two Steps From Hell"
+ chance={modifier={factor=1}}}
+song={name="The Senate"
+ chance={modifier={factor=1}}}
+song={name="To Glory (no Choir)"
+ chance={modifier={factor=1}}}
+song={name="To Victory"
+ chance={modifier={factor=1}}}
+song={name="Two Steps From Hell - Protectors Of The Earth"
+ chance={modifier={factor=1}}}
+song={name="Wondrous Battle Music Base Of Fire — Ian Chen"
+ chance={modifier={factor=1}}}
+song={name="Worlds Greatest Battle Music Ever Its Our Attack"
+ chance={modifier={factor=1}}}
+song={name="Worlds Greatest Battle Music Ever To The End"
+ chance={modifier={factor=1}}}
+song={name="Xian"
+ chance={modifier={factor=1}}}
