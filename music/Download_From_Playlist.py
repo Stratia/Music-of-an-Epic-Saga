@@ -1,5 +1,5 @@
 from pytube import Playlist
-import os 
+
 
 
 """
@@ -17,7 +17,7 @@ and activates Add_Songs.py script
 # Downloads Playlist in .ogg format in the Songs folder
 def download_playlist():
     # Creates a Playlist object to intereact with
-    playlist = Playlist("https://www.youtube.com/playlist?list=PL09vFeT0St82xo678b9aeRxtJ2OiF_YNn")
+    playlist = Playlist("https://www.youtube.com/playlist?list=PL09vFeT0St83TeuslqZE2a9uedkToW_GS")
     for video in playlist.videos: # Iterates through playlist
       video_stream = video.streams.filter(only_audio=True) # Ensures it only gets audio and not video
       video_stream.first().download(output_path="Songs") # Downloads song in the specified folder

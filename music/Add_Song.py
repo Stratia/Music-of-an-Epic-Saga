@@ -1,4 +1,3 @@
-
 import os
 
 #This makes a list of all the files in the folder where you put songs
